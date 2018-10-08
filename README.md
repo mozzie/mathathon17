@@ -5,4 +5,4 @@ Base of a code assignment created for Mathathon, a hackathon for math students. 
 1) Upload solution to mathathon17-server
 
 ## Other
-Organizers requested "simple java" to be used in the project. It's a simple base that was distributed to every team with a very simple running solution.
+Organizers requested "simple java" to be used in the project. It's a simple base that was distributed to every team with a very simple running solution. Buzzwords: Java, Maven
